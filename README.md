@@ -56,7 +56,7 @@ In this step, we'll create a container where the routing HTML will live. We'll a
             <li><a ui-sref="products({id: 'socks'})">Socks</a></li>
           </ul>
         </li>
-        <li><a ui-sref="settings"> Settings </a></li>
+        <li><a ui-sref="settings">Settings</a></li>
       </ul>
     </div>
 
